@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-### [2.0.1](https://github.com/plus3it/terraform-aws-org-new-account-trust-policy/releases/tag/2.0.1)
+### [2.0.1](https://github.com/MetroStar/terraform-aws-org-new-account-trust-policy/releases/tag/2.0.1)
 
 **Released**: 2023.04.18
 
@@ -14,7 +14,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 1.0.0
 
-**Commit Delta**: [Change from 0.2.2 release](https://github.com/plus3it/terraform-aws-org-new-account-support-case/compare/0.2.2...1.0.0)
+**Commit Delta**: [Change from 0.2.2 release](https://github.com/MetroStar/terraform-aws-org-new-account-support-case/compare/0.2.2...1.0.0)
 
 **Released**: 2022.11.14
 
@@ -31,7 +31,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 0.2.2
 
-**Commit Delta**: [Change from 0.2.1 release](https://github.com/plus3it/terraform-aws-org-new-account-trust-policy/compare/0.2.1...0.2.2)
+**Commit Delta**: [Change from 0.2.1 release](https://github.com/MetroStar/terraform-aws-org-new-account-trust-policy/compare/0.2.1...0.2.2)
 
 **Released**: 2021.07.22
 
@@ -46,7 +46,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 0.2.1
 
-**Commit Delta**: [Change from 0.2.0 release](https://github.com/plus3it/terraform-aws-org-new-account-trust-policy/compare/0.2.0...0.2.1)
+**Commit Delta**: [Change from 0.2.0 release](https://github.com/MetroStar/terraform-aws-org-new-account-trust-policy/compare/0.2.0...0.2.1)
 
 **Released**: 2021.05.18
 
@@ -57,7 +57,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 0.2.0
 
-**Commit Delta**: [Change from 0.1.1 release](https://github.com/plus3it/terraform-aws-org-new-account-trust-policy/compare/0.1.1...0.2.0)
+**Commit Delta**: [Change from 0.1.1 release](https://github.com/MetroStar/terraform-aws-org-new-account-trust-policy/compare/0.1.1...0.2.0)
 
 **Released**: 2021.05.03
 
@@ -68,7 +68,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 0.1.1
 
-**Commit Delta**: [Change from 0.1.0 release](https://github.com/plus3it/terraform-aws-org-new-account-trust-policy/compare/0.1.0...0.1.1)
+**Commit Delta**: [Change from 0.1.0 release](https://github.com/MetroStar/terraform-aws-org-new-account-trust-policy/compare/0.1.0...0.1.1)
 
 **Released**: 2021.04.28
 
@@ -78,7 +78,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 0.1.0
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-aws-org-new-account-trust-policy/compare/0.0.0...0.1.0)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-aws-org-new-account-trust-policy/compare/0.0.0...0.1.0)
 
 **Released**: 2021.04.20
 
